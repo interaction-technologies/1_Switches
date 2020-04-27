@@ -7,3 +7,5 @@ Source code and resources for the first lab on **Interaction Technologies: Physi
 | Adobe_XD | Example XD file with keyboard buttons as triggers |
 | Arduino_sketches | Starting code for lab exercises |
 | Breadboard_layouts | PDF, PNG and Fritzing files for breadboard circuit layouts |
+
+Teaching notes available on the [FH Salzburg MMT Wiki](https://wiki.mediacube.at/wiki/index.php?title=Interaction_Approaches_and_Technologies_-_SS_2020).
