@@ -2,6 +2,8 @@
 
 Source code and resources for the first lab on **Interaction Technologies: Physical Interfaces** course.
 
+Lecture notes are located here: [01_Lab01 - Haptics_prototyping_workshop.pdf](https://github.com/interaction-technologies/Lab01_Haptics/blob/master/01_Lab01%20-%20Haptics_prototyping_workshop.pdf)
+
 | Folder | Contents
 | --- | --- |
 | Adobe_XD | Example XD file with keyboard buttons as triggers |
