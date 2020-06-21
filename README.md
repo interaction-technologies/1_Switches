@@ -2,7 +2,7 @@
 
 Source code and resources for the first lab on **Interaction Technologies: Physical Interfaces** course.
 
-Lecture notes are located here: [01_Lab01 - Haptics_prototyping_workshop.pdf](https://github.com/interaction-technologies/Lab01_Haptics/blob/master/01_Lab01%20-%20Haptics_prototyping_workshop.pdf)
+Lecture notes are located here: [01_Lab01 - Haptics.pdf](https://wiki.mediacube.at/wiki/images/1/1a/01_Lab01_-_Haptics.pdf)
 
 | Folder | Contents
 | --- | --- |
