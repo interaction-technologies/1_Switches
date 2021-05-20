@@ -1,4 +1,4 @@
-# Lab 01 - Switches
+# Lecture3 - Switches
 
 Source code and resources for the first lab on **Interaction Technologies** course at **FH Salzburg**.
 
