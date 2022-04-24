@@ -10,6 +10,6 @@ void setup() {
 
 void loop() {
 	// Read and loop sensor value
-	int sensorValue = analogRead(pressure_pin);
-	Serial.println(sensorValue);
+	int sensor_value = analogRead(pressure_pin);
+	Serial.println(sensor_value);
 }
