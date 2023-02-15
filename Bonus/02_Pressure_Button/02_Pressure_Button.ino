@@ -2,10 +2,10 @@
 const int pressure_pin = A3; 
 
 void setup() {
-  Serial.begin(9600);
+	Serial.begin(9600);
 
-  // Set pressure pin
-  pinMode(pressure_pin,INPUT_PULLUP);
+	// Set pressure pin
+	pinMode(pressure_pin,INPUT_PULLUP);
 }
 
 void loop() {

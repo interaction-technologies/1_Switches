@@ -11,24 +11,24 @@ Encoder myEnc(2,3);
 
 void setup(){
 
-   // ⚠ Safety stop!
-   // Program will not begin unless pin 12 connected to GND
-   pinMode(12, INPUT_PULLUP);
-   while(digitalRead(12)==HIGH){
-      // do nothing!
-      delay(500);
-   }
+	// ⚠ Safety stop!
+	// Program will not begin unless pin 12 connected to GND
+	pinMode(12, INPUT_PULLUP);
+	while(digitalRead(12)==HIGH){
+		// do nothing!
+		delay(500);
+	}
 
-   // Start keyboard
-   Keyboard.begin();
+	// Start keyboard
+	Keyboard.begin();
 }
 
 long last_position = 0;
 
 void loop() {
-   long current_position = myEnc.read();
-   if (current_position != last_position){
-      Keyboard.println(current_position);
-      last_position = current_position;
-   }
+	long current_position = myEnc.read();
+	if (current_position != last_position){
+		Keyboard.println(current_position);
+		last_position = current_position;
+	}
 }
